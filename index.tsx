@@ -28,7 +28,7 @@ const settings = definePluginSettings({
 
 export default definePlugin({
     name: "NoTypingGradient",
-    description: "Removes the typing gradient from Discord chat scrollers",
+    description: "Removes the typing gradient from Discord chat scrollers when using nitro theme (Intended to be used with discord-refresh-ui-improvements theme by LinkTheDot)",
     authors: [
         {
 	    id: 236950175480807424n,
